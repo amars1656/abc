@@ -1,0 +1,40 @@
+a=int(input("enter a number1"))
+b=int(input("enter a number2"))
+sum=a+b
+print(sum)
+hello amar
+how are youhello amar
+how are youhello amar
+how are youhello amar
+how are youhello amar
+how are youhello amar
+how are youhello amar
+how are youhello komal
+how are youhello komal
+how are youhello komal
+how are youhello komal
+how are youhello komal
+how are youhello komal
+how are youhello komal
+how are youhello komal
+how are youhello komal
+how are youhello komal
+how are youhello python
+hello komal
+how are you
+hello python
+hello komal
+how are you
+hello python
+hello komal
+how are you
+hello python
+hello komal
+how are you
+hello python
+hello komal
+how are you
+hello python
+hello komal
+how are you
+hello python
